@@ -1,0 +1,3 @@
+
+
+	Fazer função que diz distância da cidade rô até todas as outras cidades.
